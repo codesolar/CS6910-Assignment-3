@@ -11,7 +11,7 @@ I was running in kaggle , so make sure to upload the aksharantar_sampled zip fil
 supposedly the user already have aksharanter_sampled zip file, and wnat to run from the terminal , just save this train file in your local machine , open the terminal , go to that directories location with cd command.<br>
 then in terminal write 'python3 train.py ' after this write the configurations to train the model .<br>
 To run the configurations , the notations are  written below = <br>
-        name                   default <br>
+        name               <t>    default <br>
 -wp       --wandb_project      Assignment 2 <br>
 -we       --wandb_entity       cs22m084<br>
 -d        --dataset            hin<br>
