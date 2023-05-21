@@ -1,5 +1,5 @@
 # CS6910-Assignment-3
-question 1 : It is about encoder decoder model making , the codefile has been added to the  github repo , and the answers of the questions are given in  the wandb report./br
+question 1 : It is about encoder decoder model making , the codefile has been added to the  github repo , and the answers of the questions are given in  the wandb report.\br
 question 2 : It is about running sweeps after making the encoder decoder model . The hyperparameter choice strategy is mentioned in the wandb report and the codefile is uploaded in github.
 question 3 : This is about making inferences from the available plots (from the sweep run on question 2), The details are written in the wandb report.
 question 4 : The best model from sweep is found out and it is trained (after getting the hyperparameter value from wandb sweep) , then it is tested on the test set.Predictions on the test set is uploaded in the github repo.
